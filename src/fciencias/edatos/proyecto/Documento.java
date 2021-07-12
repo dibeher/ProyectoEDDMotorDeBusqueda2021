@@ -1,4 +1,4 @@
 public class Documento{
-  String nombre;
+  private String nombre;
   
 }
